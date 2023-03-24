@@ -1,4 +1,4 @@
-# CS50 by Harvard University
+# CS50
 
 This repository contains codes for multiple real-world problems, written in 4 different languages  
   
